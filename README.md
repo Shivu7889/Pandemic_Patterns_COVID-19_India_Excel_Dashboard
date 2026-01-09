@@ -93,8 +93,10 @@ To provide a comprehensive and interactive view of the COVID-19 situation across
 ---
 ## 📊 Excel Dashboard Preview
 
-![Covid 19 Data Analysis](screenshots/dashboard1.png)
-![Covid 19 Data Analysis](screenshots/dashboard2.png)
+![image](https://github.com/Shivu7889/Pandemic_Patterns_COVID-19_India_Excel_Dashboard/blob/7d5849f7ff8dcab1679ce6fb7cf6139ebb8ca3d0/Covid%2019%20Data%20Analysis/screenshots/dashboard1.png)
+![image](https://github.com/Shivu7889/Pandemic_Patterns_COVID-19_India_Excel_Dashboard/blob/7d5849f7ff8dcab1679ce6fb7cf6139ebb8ca3d0/Covid%2019%20Data%20Analysis/screenshots/dashboard2.png)
+
+
 
 ---
 
