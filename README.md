@@ -90,6 +90,11 @@ To provide a comprehensive and interactive view of the COVID-19 situation across
 - Statewise Impact Overview
 - Advanced Statistical Analysis (CFR, Pre/Post Vaccination)
 - Interactive Filters (State & Date)
+---
+## 📊 Excel Dashboard Preview
+
+![COVID 19 Data Analysis](screenshots/dashboard1.png)
+![COVID 19 Data Analysis](screenshots/dashboard2.png)
 
 ---
 
